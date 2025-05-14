@@ -11,7 +11,7 @@ import tempfile
 import streamlit.components.v1 as components
 
 
-api_key = yaml.safe_load(open("credentials.yaml"))["openai_api_key"]
+api_key = yaml.safe_load(open("config.yaml"))["openai_api_key"]
 client = OpenAI(api_key=api_key)
 
 # Load CV data from local file
