@@ -103,7 +103,6 @@ streamlit run app.py
 - 🎨 Improve visual styling and use better graphics/icons for sections
 - 📝 Download CV summaries as PDF/audio
 - 🗣️ Add voice **input** to navigate via speech
-- ☁️ Host on Hugging Face or Streamlit Cloud
 - 🌐 Add support for multilingual narration
 
 ---
