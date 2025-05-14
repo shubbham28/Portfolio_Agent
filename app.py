@@ -11,7 +11,7 @@ import tempfile
 import streamlit.components.v1 as components
 
 
-api_key = yaml.safe_load(open("config.yaml"))["openai_api_key"]
+api_key = yaml.safe_load(open("credentials.yaml"))["openai_api_key"]
 client = OpenAI(api_key=api_key)
 
 # Load CV data from local file
@@ -198,7 +198,7 @@ if st.session_state.get("selected_section"):
         <source src="data:audio/mp3;base64,{summary['audio']}" type="audio/mp3">
         </audio>
         """
-        section_audio_slot.markdown(html, unsafe_allow_html=True)
+        section_audio_slot.html(html)
 
         # Show summary bullets
         st.markdown("### Summary")
@@ -242,7 +242,7 @@ if st.session_state.get("selected_subsection"):
           <source src="data:audio/mp3;base64,{sub['audio']}" type="audio/mp3">
         </audio>
         """
-        subsection_audio_slot.markdown(html, unsafe_allow_html=True)
+        subsection_audio_slot.html(html)
 
         st.markdown("##### Bullet Points")
         for bullet in sub["bullets"].split("\n"):
