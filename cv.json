@@ -1,0 +1,247 @@
+{
+  "name": "Shubbham Gupta",
+  "contact": {
+    "location": "Dublin, Ireland",
+    "phone": "+353899586207",
+    "email": "shubbham.gupta28@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/shubbhamgupta",
+    "github": "https://www.github.com/shubbham28",
+    "Portfolio": "https://huggingface.co/spaces/Shubbham28/Portfolio_Agent",
+    "work Authorization in Ireland": "Stamp 1G"
+  },
+  "objective": "PhD-researcher in SFI CRT Data Science with deep hands-on experience in predictive analytics, scalable ML pipelines, and Bayesian modeling. Proven ability to implement cloud-native solutions in healthcare and pharma, apply SOLID principles, and deploy robust AI systems using MLOps/LLMOps.",
+  "skills": {
+    "programming_and_databases": [
+      "Python",
+      "R",
+      "C++",
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "data_analysis_visualization": [
+      "Power BI",
+      "Tableau",
+      "Plotly",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Scikit-learn",
+      "TensorFlow",
+      "Keras",
+      "PyTorch",
+      "XGBoost"
+    ],
+    "cloud_bigdata_tools": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Hadoop",
+      "Spark",
+      "Hive",
+      "Jupyter Notebook",
+      "RStudio",
+      "GitHub",
+      "MS Office"
+    ],
+    "ml_ai": [
+      "Machine Learning",
+      "Bayesian Statistics",
+      "Neural Networks",
+      "NLP",
+      "Model Training",
+      "Hyperparameter Tuning"
+    ],
+    "mlops_llmops": [
+      "Streamlit",
+      "Docker",
+      "GitHub Actions",
+      "Hugging Face",
+      "OpenAI API",
+      "FinBERT",
+      "LLaMA",
+      "Prompt Engineering",
+      "YAML Configs"
+    ]
+  },
+  "education": [
+    {
+      "degree": "PhD in Data Science",
+      "institution": "University College Dublin",
+      "location": "Dublin, Ireland",
+      "duration": "Sep 2020 - Apr 2025",
+      "details": "Specialized in predictive modeling and feature selection for metabolic disorders. Contributed to international collaboration, teaching, and a peer-reviewed publication."
+    },
+    {
+      "degree": "MSc in Data and Computational Science",
+      "institution": "University College Dublin",
+      "location": "Dublin, Ireland",
+      "duration": "Sep 2019 - Aug 2020",
+      "details": "Focused on survival analysis, predictive analytics, Bayesian methods, and programming with R, Mathematica, Fortran."
+    },
+    {
+      "degree": "B.Tech in Computer Science and Engineering",
+      "institution": "Guru Gobind Singh Indraprastha University",
+      "location": "New Delhi, India",
+      "duration": "Sep 2015 - Aug 2019",
+      "details": "Studied OS, web development, big data, programming in C++, Java, Python. Gained database and software development experience."
+    }
+  ],
+  "experience": [
+    {
+      "role": "PhD Researcher",
+      "organization": "University College Dublin",
+      "duration": "Sep 2020 - Apr 2025",
+      "project": "MetaboVariation",
+      "details": [
+        "Developed a Bayesian GLM model for intra-individual metabolite variations.",
+        "Built R package with Shiny dashboard.",
+        "Collaborated with Helmholtz Zentrum Mucnchen.",
+        "Awarded Best Poster at the 42nd Conference on Applied Statistics in Ireland.",
+        "Authored peer-reviewed publication in Metabolites and contributed to open-source packages."
+      ]
+    },
+    {
+      "role": "Data Science and AI Research Intern",
+      "organization": "Novartis Ireland Limited",
+      "duration": "Jun 2021 - Sep 2021",
+      "project": "Survival Modeling of ASCVD",
+      "details": [
+        "Built Python pipeline for 40,000+ patients.",
+        "Used SHAP, Plotly dashboards, and parametric survival models.",
+        "Delivered findings in Novartis internal seminar."
+      ]
+    },
+    {
+      "role": "Research Fellow (Short-term)",
+      "organization": "University College Dublin",
+      "duration": "Jan 2021 - Jun 2021",
+      "project": "Sheepdog Algorithm",
+      "details": [
+        "Developed a metaheuristic bio-inspired feature selection method.",
+        "Achieved 10% improvement in predictive accuracy.",
+        "Presented at European and international conferences."
+      ]
+    },
+    {
+      "role": "Master's Researcher",
+      "organization": "University College Dublin",
+      "duration": "Apr 2020 - Aug 2020",
+      "project": "Survival Analysis of Clinical Mastitis",
+      "details": [
+        "Applied Cox regression and L1 penalization.",
+        "Enhanced mastitis detection via survival curve modeling."
+      ]
+    }
+  ],
+  "Additional projects": [
+    {
+      "name": "AI-Powered Financial Sentiment Agent",
+      "url": "https://github.com/shubbham28/financial-agent",
+      "details": [
+        "Real-time integration with Yahoo Finance and Finviz news.",
+        "LLM-powered chatbot using Streamlit.",
+        "Used FinBERT for sentiment, OpenAI/LLaMA for summary.",
+        "Followed MLOps + LLMOps best practices with YAML configs, modular code."
+      ]
+    },
+    {
+      "name": "Job Hunt Agent",
+      "url": "https://github.com/shubbham28/job-hunt-agent",
+      "details": [
+        "Automates job search processes using AI.",
+        "Scrapes job listings and matches them with user profiles.",
+        "Implements NLP for resume parsing and job description analysis."
+      ]
+    },
+      {
+  "name": "Portfolio Voice Agent",
+  "url": "https://github.com/shubbham28/Portfolio-Agent",
+  "details": [
+    "Developed an AI-powered, voice-enabled interactive portfolio using Streamlit and OpenAI APIs.",
+    "Integrated OpenAI GPT for third-person summary generation and OpenAI TTS-1 for natural-sounding voice playback.",
+    "Designed a modular UI with smart layout that includes section and subsection drilldown (Education, Projects, Experience, Publications).",
+    "Implemented session caching to avoid redundant OpenAI calls and improved load speed.",
+    "Allows autoplay of audio summaries and provides an engaging user experience with bullet-point transcripts."
+  ]
+},
+    {
+  "name": "Black Hole Detection using Modified Cuckoo Search",
+  "url": "https://github.com/shubbham28/Black-Hole-Detection",
+  "details": [
+    "Proposed an improvement to the AODV routing protocol by embedding the Cuckoo Search Optimization algorithm to mitigate black hole attacks in Mobile Ad Hoc Networks (MANETs).",
+    "Developed the modified algorithm in C and integrated it into NS2 simulator for experimental testing across scenarios with increasing node and black hole counts.",
+    "Evaluated performance based on Quality of Service (QoS) metrics: Packet Delivery Ratio (PDR), End-to-End Delay, Throughput, and Packet Loss.",
+    "Achieved significant improvement in network performance with PDR reaching 95.45% in high node density conditions.",
+    "Demonstrated that the algorithm efficiently detects malicious nodes, reroutes data, and maintains stable performance even in the presence of multiple black holes.",
+    "Published in 'Innovative Computing and Communication: An International Journal', Vol.1, Issue 1, July 2019."
+  ]
+}
+
+  ],
+  "publications": [
+  {
+    "title": "MetaboVariation: Exploring Individual Variation in Metabolite Levels",
+    "authors": ["Shubbham Gupta", "Isobel Claire Gormley", "Lorraine Brennan"],
+    "journal": "Metabolites",
+    "date": "2023-01-23",
+    "doi": "10.3390/metabo13020164",
+    "url": "https://www.mdpi.com/2218-1989/13/2/164",
+    "keywords": ["metabolomics", "Bayesian modeling", "personalized healthcare", "biomarkers"],
+    "abstract": "Introduces 'MetaboVariation', a Bayesian generalized linear model approach to analyze intra-individual metabolite level variations over time, facilitating the identification of early metabolic dysfunctions and paving the way for personalized healthcare strategies."
+  },
+  {
+    "title": "Quantum Grey Wolf Optimization and Evolutionary Algorithms for Diagnosis of Alzheimer's Disease",
+    "authors": ["Moolchand Sharma", "Shubbham Gupta", "Himanshu Aggarwal", "Tarun Aggarwal", "Deepak Gupta", "Ashish Khanna"],
+    "journal": "International Journal of Modelling, Identification and Control",
+    "date": "2022-11-22",
+    "doi": "10.1504/IJMIC.2022.127097",
+    "url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJMIC.2022.127097",
+    "keywords": ["Alzheimer's disease", "machine learning", "bio-inspired algorithms", "quantum grey wolf optimization"],
+    "abstract": "Presents a comparative analysis of evolutionary algorithms, highlighting the efficacy of quantum grey wolf optimization in enhancing diagnostic accuracy for Alzheimer's disease through effective feature selection and classification."
+  },
+  {
+    "title": "Bio-Inspired Algorithms for Diagnosis of Breast Cancer",
+    "authors": ["Moolchand Sharma", "Shubbham Gupta", "Prerna Sharma", "Deepak Gupta"],
+    "journal": "International Journal of Innovative Computing and Applications",
+    "date": "2019-11-05",
+    "doi": "10.1504/IJICA.2019.103380",
+    "url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJICA.2019.103380",
+    "keywords": ["breast cancer", "bio-inspired algorithms", "feature selection", "machine learning"],
+    "abstract": "Evaluates various bio-inspired algorithms, including artificial bee colony and particle swarm optimization, for breast cancer diagnosis, demonstrating improved accuracy in classification tasks."
+  },
+  {
+    "title": "Modified Bio-Inspired Algorithms for Diagnosis of Breast Cancer Using Aggregation",
+    "authors": ["Moolchand Sharma", "Shubbham Gupta", "Suman Deswal"],
+    "journal": "International Journal of Innovative Computing and Applications",
+    "date": "2021-03-15",
+    "doi": "10.1504/IJICA.2021.113615",
+    "url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJICA.2021.113615",
+    "keywords": ["breast cancer", "bio-inspired algorithms", "aggregation", "machine learning"],
+    "abstract": "Introduces an aggregated approach combining modified bio-inspired algorithms to enhance the diagnostic accuracy of breast cancer detection, achieving up to 97% accuracy with random forest classifiers."
+  },
+  {
+    "title": "Black Hole Detection and Prevention in AODV Protocol using Modified Cuckoo Search Algorithm",
+    "authors": ["Shubbham Gupta", "Moolchand Sharma"],
+    "journal": "Innovative Computing and Communication: An International Journal",
+    "date": "2019-07-01",
+    "doi": "10.5281/zenodo.4743563",
+    "url": "https://zenodo.org/record/4743563",
+    "keywords": ["AODV protocol", "black hole attack", "cuckoo search algorithm", "network security"],
+    "abstract": "Proposes an enhancement to the AODV routing protocol by integrating a modified cuckoo search algorithm to effectively detect and prevent black hole attacks in mobile ad hoc networks, thereby improving network performance metrics."
+  }
+]
+,
+  "interests": [
+    "Large Language Models",
+    "Cloud Computing",
+    "Finances",
+    "Stocks",
+    "Healthcare",
+    "Cycling",
+    "Hiking",
+    "Running",
+    "Badminton"
+  ]
+}
